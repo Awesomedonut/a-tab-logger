@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+logs/
+browser-tabs-*.md
+browser-tabs-*.json
+new-browser-tabs-*.md
+new-browser-tabs-*.json
+finder-windows-*.md
+finder-windows-*.json
